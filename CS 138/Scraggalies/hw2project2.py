@@ -1,7 +1,7 @@
 def main():
     print ("Welcome to the Fahrenheit to Celsius converter ")
     #get user input for degrees F
-    x = eval (input (" PLease enter the degrees in Fahrenheit: "))
+    x = eval (input (" PLease enter the degrees in Fahrenheit that you would like to convert to Celsius: "))
     #extra variables for conversion
     y = 32
     z = 5/9
